@@ -1,4 +1,4 @@
-# Rock Paper Scissors Advanced  
+# Rock Paper Scissors Game! 
 
 Classic Rock Paper Scissors game featuring AI opponents, real-time gesture recognition using MediaPipe, and a modern PyQt6 interface.  
 
