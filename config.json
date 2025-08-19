@@ -1,0 +1,21 @@
+{
+  "video": {
+    "camera_index": 0,
+    "resolution": [640, 480],
+    "fps": 30
+  },
+  "game": {
+    "countdown_duration": 3,
+    "rounds_per_game": 5,
+    "detection_confidence": 0.7
+  },
+  "audio": {
+    "effects_volume": 0.5,
+    "music_volume": 0.3,
+    "enabled": true
+  },
+  "network": {
+    "default_port": 5555,
+    "timeout": 10
+  }
+}
