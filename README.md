@@ -73,34 +73,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# Project Structure
-```bash
-rock_paper_scissors/
-├── main.py               # Application entry point
-├── config.json           # Configuration settings
-├── requirements.txt      # Python dependencies
-├── README.md             # This file
-├── src/                  # Source code
-│   ├── __init__.py
-│   ├── game_engine.py    # Core game logic
-│   ├── hand_detector.py  # MediaPipe gesture recognition
-│   ├── gui_manager.py    # PyQt6 user interface
-│   ├── sound_manager.py  # Audio management
-│   ├── ai_player.py      # AI opponents
-│   ├── network_manager.py# Multiplayer networking
-│   └── utils.py          # Utility functions
-├── data/                 # Game data storage
-│   ├── stats.json        # Player statistics
-│   └── leaderboard.json  # High scores
-├── assets/               # Game assets
-│   ├── sounds/           # Sound effects
-│   └── images/           # UI icons and images(Empty)
-└── tests/                # Unit tests
-    ├── __init__.py
-    └── test_game_engine.py
-
-```
-
 # Configuration
 Edit config.json to customize game settings:
 ```json
