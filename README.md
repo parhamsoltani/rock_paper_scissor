@@ -20,15 +20,8 @@ Classic Rock Paper Scissors game featuring AI opponents, real-time gesture recog
 - Real-time hand gesture detection using MediaPipe  
 - Accurate recognition of Rock, Paper, and Scissors gestures  
 - Visual feedback and gesture validation  
-- Fallback manual input when camera is unavailable  
-
-
-### Audio & Visual  
-- Sound effects for game events  
-- Modern, responsive UI design  
-- Real-time video display  
-- Smooth animations and transitions  
-
+- Fallback manual input when camera is unavailable
+  
 ---
 
 ## Requirements  
